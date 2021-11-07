@@ -9,3 +9,6 @@
 - Все файлы с расширением tfvars
 - Файлы override.tf override.tf.json terraform.rc .terraformrc
 - Файлы, который оканчиваются на _override.tf _override.tf.json
+---------------------------------------------------------------
+
+
